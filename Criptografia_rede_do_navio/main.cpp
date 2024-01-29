@@ -17,7 +17,7 @@ int main() {
 	std::vector<std::bitset<8>> encrypted_chars{};
 
 	std::cout << "The end of the message must have '-1'.\n\
-Exemple: 01010 1110 0001 -1" << std::endl;
+Exemplo: 11100001 11110011 -1" << std::endl;
 
 	while(std::cin >> user_input && user_input != end_of_text) {
 		encrypted_chars.push_back(user_input);
