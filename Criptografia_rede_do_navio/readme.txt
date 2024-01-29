@@ -1,3 +1,5 @@
+Link para o Replit? https://replit.com/@lugumedeiros/Encoded-challenge
+
 Comentário sobre o desafio:
 
 Primeiramente eu fiz o teste no papel, que foi de longe a parte mais fácil desse desafio, inclusive
