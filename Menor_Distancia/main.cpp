@@ -30,7 +30,6 @@ int main() {
 	for (int i : first_arr) {
 		for (int j : second_arr) {
 			current_distance = abs(i - j);
-			std::cout << "current dis= " << current_distance << "\n closest dis=" << closest_distance;
 			if (current_distance < closest_distance) {
 				all_current_ints.clear();
 				counter_of_equal_distance = 1;
