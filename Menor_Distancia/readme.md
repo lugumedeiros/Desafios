@@ -1,4 +1,6 @@
 Link para o Replit: https://replit.com/@lugumedeiros/Minimum-distance-of-2-values
+Cada lista pode possuir quantidades diferentes de números, mas todos devem ser separados por espaço, adicione 'fim'
+para finalizar cada lista.
 
 Comentário sobre o desafio:
 Primeiramente eu imaginei e fiz no papel, esse desafio não teve mistério, foi bem direto.
