@@ -1,4 +1,6 @@
 Link para o Replit? https://replit.com/@lugumedeiros/Encoded-challenge
+Para teste coloque espaço entre os números e finalize com -1.
+exemplo: 11100001 11110011 -1
 
 Comentário sobre o desafio:
 
